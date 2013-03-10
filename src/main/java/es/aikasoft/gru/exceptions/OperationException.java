@@ -1,4 +1,4 @@
-package org.micasa.gru.exceptions;
+package es.aikasoft.gru.exceptions;
 
 public class OperationException extends Exception {
 

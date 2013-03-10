@@ -1,4 +1,4 @@
-package org.micasa.gru;
+package es.aikasoft.gru.tests;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

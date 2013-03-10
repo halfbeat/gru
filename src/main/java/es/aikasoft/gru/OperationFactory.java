@@ -2,12 +2,12 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package org.micasa.gru;
+package es.aikasoft.gru;
 
 /**
  *
  * @author Angel
  */
-public interface Session {
-    
+public interface OperationFactory {
+    Operation create();
 }
